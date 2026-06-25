@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArconBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+194524ab2af25bf53659e9e545c091d2e229f81b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+212fb0c5b82c300beec4389cd0e0b36aacb63186")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArconBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArconBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
